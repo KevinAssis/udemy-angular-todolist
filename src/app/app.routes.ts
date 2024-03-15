@@ -7,9 +7,5 @@ export const routes: Routes = [
   {
     path: '',
     component: ListComponent,
-  },
-  {
-    path: 'browser',
-    component: ListComponent,
-  },
+  }
 ];
