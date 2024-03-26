@@ -10,5 +10,5 @@ O projeto destaca o uso de @Input e @Output para fins didáticos.
 
 ## Servidor de desenvolvimento.
 
-Na pasta raiz do projeto, execute `ng serve` ou `ng s`.
+No diretório raiz do projeto, execute `ng serve` ou `ng s`.
 
